@@ -11,7 +11,7 @@
 ***
 
 支持上拉加载的RecyclerView的基类Adapter，简单易用，可以看做[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
-的超级精简版。保留了RecyclerView很多用法上简化的方法外，只保留了上拉加载的效果，最大程度简化代码。
+的超级精简版。只保留了上拉加载的效果和一些常用方法，最大程度简化代码。
 
 ![上拉加载成功](images/demo_load_more_success.gif)
 
